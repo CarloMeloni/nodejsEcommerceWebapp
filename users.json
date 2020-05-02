@@ -1,0 +1,70 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "ciao@ciao.com",
+    "password": "123456",
+    "id": "55d840d6"
+  },
+  {
+    "email": "ciao1@ciao.com",
+    "password": "123456",
+    "id": "a95c5322"
+  },
+  {
+    "email": "laura@example.com",
+    "password": "a8f0768a4660531ede6168ccb4bf6f664b9a74a614da9495a4ae349718ace9986aea0b1e18e0cff288d5b2941b32ede114995c980475b9e480ca34fe5c380877.6d44b2a6a4f06c22",
+    "id": "6f80480e"
+  },
+  {
+    "email": "test10@test.com",
+    "password": "4c170348752a33253ed07af317d7909f1b874165ccf639a8441113ae6261efc2d079ee514dda293a1f82c8d0dce46a45cc78368de3ca31ad01cc7acc21af3db5.879dbb9060fe2283",
+    "id": "75105df8"
+  },
+  {
+    "email": "test@example.com",
+    "password": "baf5254a52394c39caa176dabf399a9d8d289c13c4fce3b5e9d0c2b8a6281515a0e8ceddbbe8c194be7e1addbe4ba47b4a21e10b00822c0daef4c1acc8fda46b.2f11070cc1936c3e",
+    "id": "5392d418"
+  },
+  {
+    "email": "test0@test.com",
+    "password": "baafaca40609449704ceb828fd5c8e58b96a504ff3cb82d6f18c8edbec9520078be7dcb4aa2dd35ceb2351a9fbcc6307b6c462497280fa475f88aae1a73caecc.e5fdbc133f2aaf08",
+    "id": "8816f51b"
+  },
+  {
+    "email": "@ciao",
+    "password": "cbed2ca88c1ad1a6019936c7c306ee0b38280505c17b3b0756e7b2740a00d28ab95fe76e9a1bb3c86ac61beeb5385b9b51030bf1a29a31411e041dbdc7418e0d.f14d326e6a787f6a",
+    "id": "761dfce3"
+  },
+  {
+    "email": "@vdfvfvfvffvvf",
+    "password": "c76f3f54242f953e5e23e8569a74ff7d6a35b925eb4f545d8880ffecedecd66057873dbd9c94c73f72c2148375be8a2ee23b0ffd67da3ca794c3056633da2ac1.c9f871d6e4587e8d",
+    "id": "b38f9c84"
+  },
+  {
+    "email": "laura@example.com",
+    "password": "4919635a95857267b223b78adc3e4b0f8286f69282d85faee479ea79835a0db543fef68264e1de40dcf32b4cf0e18f4e6d8bd2e4a36f86634dfdca25ccd88df4.9dac1a697e3a3ca1",
+    "id": "55d1ba18"
+  },
+  {
+    "email": "laura@example.com",
+    "password": "084cf8e1f96027958f3b8a7ebb67b47c9f7fb7d46025df4ae7b8c8e1735b36cc4013cee39ad95a8199db7a15f6838e913a1b53075faaf60669d61a9fe53e8034.dd56c738e5884c76",
+    "id": "b1c62acb"
+  },
+  {
+    "email": "laura@example.com",
+    "password": "60c2b6a59c81165047e08cbe119a8a6228968a9785d132e1f9f5044c29a71d44501d7669256c41294384ea3ceb740029f9a16b5d74f84435ac79a19bc6d20573.397696d252d8928a",
+    "id": "daf40c46"
+  },
+  {
+    "email": "laura@example.com",
+    "password": "13fc9143f9f2a916b4e3edf21b9a2ccfe1a5e3acccce56bd1387a1fb2c86b907dc55b7e8242d715e4806e852c6c71eb4cabcef60145805522b6e93192406dba0.cd29cf838e0a1dcb",
+    "id": "d5a97a39"
+  },
+  {
+    "email": "laurafff@example.com",
+    "password": "188808addb7fa98110680c843d120394dc9eda99c8c1f311131559952ebd6f9941a1496a52abc5facd8ac1a16468e2edd5fb786d2d270ad8f234ac0f81b6cbb4.928be7e2b8048e0a",
+    "id": "a97dafa2"
+  }
+]
